@@ -19,7 +19,7 @@ const CreatePost = () => {
       try {
         setGeneratingImg(true);
         const response = await fetch(
-          'https://nh3247-8080.csb.app/api/v1/dalle',
+          'https://vtpgqg-8080.csb.app/api/v1/dalle',
           {
             method: 'POST',
             headers: {

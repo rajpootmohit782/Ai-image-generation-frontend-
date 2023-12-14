@@ -25,7 +25,7 @@ const Home = () => {
       setLoading(true);
       try {
         const response = await fetch(
-          'https://nh3247-8080.csb.app/api/v1/post',
+          'https://vtpgqg-8080.csb.app/api/v1/post',
           {
             method: 'GET',
             headers: {
